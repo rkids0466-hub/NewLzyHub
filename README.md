@@ -1,2 +1,0 @@
-# NewLzyHub
-Steal-an-egg
